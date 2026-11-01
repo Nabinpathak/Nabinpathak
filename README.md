@@ -6,10 +6,6 @@
   />
 </div>
 
-# Nabin Pathak
-
-**Computer Science Engineer · Data Analyst · Computational Researcher**
-
 I work at the intersection of machine learning, multimodal learning, and computational biology. My current independent research explores computational approaches to multi-cancer early detection using cell-free DNA (cfDNA) methylation data.
 
 [LinkedIn](https://www.linkedin.com/in/er-nabin-pathak-a29179237/) · [Google Scholar](https://scholar.google.com/citations?user=upqTrbQAAAAJ&hl=en) · [Email](mailto:nabinpathak520@gmail.com)
