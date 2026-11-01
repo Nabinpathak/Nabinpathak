@@ -1,3 +1,11 @@
+<div align="center">
+  <img
+    src="Banner.png"
+    width="100%"
+    alt="Nabin Pathak — Machine Learning and Computational Biology"
+  />
+</div>
+
 # Nabin Pathak
 
 **Computer Science Engineer · Data Analyst · Computational Researcher**
