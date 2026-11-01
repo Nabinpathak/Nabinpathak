@@ -6,6 +6,22 @@
   />
 </div>
 
+## Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Machine_Learning-102A43?style=for-the-badge" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
 I work at the intersection of machine learning, multimodal learning, and computational biology. My current independent research explores computational approaches to multi-cancer early detection using cell-free DNA (cfDNA) methylation data.
 
 [LinkedIn](https://www.linkedin.com/in/er-nabin-pathak-a29179237/) · [Google Scholar](https://scholar.google.com/citations?user=upqTrbQAAAAJ&hl=en) · [Email](mailto:nabinpathak520@gmail.com)
@@ -63,9 +79,6 @@ Working with business data, database workflows, reporting, and operational syste
 **B.Tech in Computer Science and Engineering**  
 Sharda University, India
 
-## Technical interests and tools
-
-Python · SQL · PostgreSQL · DuckDB · Power BI · Excel · Machine Learning · XGBoost · PyTorch · scikit-learn · Git
 
 ---
 
