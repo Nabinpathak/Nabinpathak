@@ -28,28 +28,6 @@ I work at the intersection of machine learning, multimodal learning, and computa
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Nabinpathak&show_icons=true&hide_border=true&theme=tokyonight"
-    height="165"
-    alt="Nabin Pathak's GitHub statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabinpathak&layout=compact&hide_border=true&theme=tokyonight"
-    height="165"
-    alt="Most used programming languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Nabinpathak&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Profile views"
-  />
-</p>
-
 ## Research interests
 
 - Machine learning and statistical learning
