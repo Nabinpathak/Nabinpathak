@@ -1,45 +1,59 @@
 # Nabin Pathak
 
-**Machine Learning · Computational Biology · Early Cancer Detection**
+**B.Tech, Computer Science and Engineering · Data Analyst · Early-career computational researcher**  
+Preparing for PhD applications (Fall 2027)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=your-id)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/your-orcid)
-
-Researcher focused on building machine learning systems for healthcare.  
-Primary interests: **liquid biopsy**, **cfDNA methylation analysis**, multimodal deep learning, and robust data pipelines for biomedical applications.
+I am interested in machine learning methods for biological and clinical data, with a focus on computational approaches to multi-cancer early detection and multimodal learning. My current work centers on representing weak signals in cell-free DNA methylation data and on audio-visual architectures for robust speech recognition.
 
 ---
 
-### Research Focus
+### Research Interests
 
-- Deep learning pipelines for multi-cancer early detection (MCED) using liquid biopsy and circulating free DNA (cfDNA) methylation patterns
-- Multimodal models that fuse audio and visual signals for robust speech recognition under real-world noise
-- Data integrity and preprocessing tools for large-scale biomedical and tabular datasets
-
----
-
-### Selected Projects
-
-| Project | Description | Language |
-|---------|-------------|----------|
-| **[MCED-Liquid-Biopsy-Intelligence](https://github.com/Nabinpathak/MCED-Liquid-Biopsy-Intelligence)** | End-to-end deep learning pipeline for multi-cancer early detection from liquid biopsy and cfDNA methylation features | Python |
-| **[multimodal_speech_recognition](https://github.com/Nabinpathak/multimodal_speech_recognition)** | Audio-visual speech recognition system that reduces word error rate (WER) in noisy environments by combining acoustic and visual modalities | Jupyter / Python |
-| **[Duplicate_Data_Remover](https://github.com/Nabinpathak/Duplicate_Data_Remover)** | Production-ready web application for uploading, cleaning, and deduplicating Excel data into PostgreSQL | Python |
+- Machine learning for liquid biopsy and cfDNA methylation analysis  
+- Feature representation and evaluation for multi-cancer early detection  
+- Multimodal deep learning (audio–visual speech recognition)  
+- Computational biology, genomics, and AI methods in healthcare  
 
 ---
 
-### About
+### Selected Research Projects
 
-I work at the intersection of machine learning and healthcare, with particular emphasis on early disease detection through liquid biopsy signals. Current efforts center on building reproducible deep learning pipelines that extract meaningful patterns from cfDNA methylation data for multi-cancer screening.
+**[MCED-Liquid-Biopsy-Intelligence](https://github.com/Nabinpathak/MCED-Liquid-Biopsy-Intelligence)**  
+Exploratory computational pipeline for multi-cancer early detection using cell-free DNA methylation profiles.  
+The work develops coverage-weighted sample-level features (global and chromosome-wise methylation statistics, hyper-/hypomethylation fractions, and inter-CpG spacing) and evaluates an XGBoost classifier. Current experiments use a small set of samples and internal cross-validation only. The perfect cross-validated AUC is treated as a cautionary signal rather than evidence of performance, given differences in data sources and coverage dependence of top features. No independent cohort or clinical claims are made. A planned validation protocol emphasizes patient-level splits, label permutation, and trivial baselines.
 
-Previously explored multimodal approaches to speech recognition, demonstrating that joint audio-visual modeling can significantly improve robustness and accelerate training under environmental noise.
+**[Audio-Visual Efficient Conformer for Robust Speech Recognition](https://github.com/Nabinpathak/multimodal_speech_recognization)**  
+Implementation and experiments on multimodal speech recognition using an Efficient Conformer architecture with a ResNet-18 visual front-end, intermediate CTC losses, and patch attention. The work examines the contribution of joint audio–visual modeling under environmental noise and its effect on training efficiency and word error rate on public lip-reading datasets (LRS2/LRS3).
 
 ---
 
-### Contact
+### Technical Skills
 
-- Email: [your.email@domain.com](mailto:your.email@domain.com)
-- GitHub: [Nabinpathak](https://github.com/Nabinpathak)
+**Machine Learning & Modeling**  
+Python, scikit-learn, XGBoost, PyTorch, TensorFlow, feature engineering, model evaluation, cross-validation design
 
-Feel free to reach out regarding research collaborations, open-source contributions, or questions about the projects above.
+**Computational Biology / Genomics**  
+cfDNA methylation analysis, bedGraph processing, coverage-weighted statistics, exploratory analysis of epigenetic signals
+
+**Data Analysis & Engineering**  
+Pandas, NumPy, data cleaning and integrity pipelines, PostgreSQL, tabular data workflows
+
+**Tools**  
+Git, Jupyter, Linux environment, reproducible experiment scripts
+
+---
+
+### Publications
+
+- Pathak, N., Shukla, S., Waseem, Z., Vijh, S., & Grover, A. (2024). *Ethical Considerations in Speech Recognition Using Deep Neural Network: A Systematic Review*. SSRN.  
+  [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4937978)
+
+- Pathak, N., Shrestha, G. P., Vijh, S., & Kumar, S. (2024). *Multi-modal Speech Recognition: Integrating Audio and Visual Information with Deep Neural Network*. *The International Conference on Recent Innovations in Computing*.
+
+---
+
+### Links
+
+- [Google Scholar](https://scholar.google.com/citations?user=upqTrbQAAAAJ&hl=en)  
+- [LinkedIn](https://www.linkedin.com/in/er-nabin-pathak-a29179237/)  
+- [GitHub](https://github.com/Nabinpathak)
